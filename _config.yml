@@ -1,13 +1,13 @@
 # Site settings
 title: A Blog
-header-img: img/home-bg.jpg
+header-img: img/android_google_moutain.jpg
 email: miguel.rueda@outlook.com
 description: "The blog description goes here"
 baseurl: ""
 url: ""
 # twitter_username: SBootstrap
 github_username:  miguelrueda
-facebook_username:  miguelrueda
+facebook_username:  miguel.rueda.91
 
 # Build settings
 markdown: kramdown
