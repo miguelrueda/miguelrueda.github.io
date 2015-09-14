@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      "Hello jekyll post"
+subtitle:   "First post created with jekyll"
+date:       2015-09-14 12:00:00
+author:     "Miguel Rueda"
+header-img: "img/wall4.jpg"
+---
+
+<p>This is a post =).</p>
+
+<h2 class="section-heading">The Final Frontier?</h2>
+
+<blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
+
+<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
