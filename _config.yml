@@ -1,6 +1,6 @@
 # Site settings
 title: Android Blog
-header-img: img/android_bg.jpg
+header-img: img/blog_bg.jpg
 email: miguel.rueda@outlook.com
 description: "The blog description goes here"
 baseurl: ""

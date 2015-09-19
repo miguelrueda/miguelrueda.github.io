@@ -9,7 +9,7 @@ header-img: "img/post-bg-04.jpg"
 
 <p>Para iniciar la configuración de Android Studio debe existir una versión de Java para la compilación de los fuentes.</p>
 
-<p>Enlace al archivo ({{site.url}}/assets/mydoc.pdf) </p>
+<p>Enlace al archivo ({{site.baseurl}}/assets/guia.pptx) </p>
 
 <h2 class="section-heading">Guía en PDF</h2>
 
